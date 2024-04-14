@@ -1,0 +1,126 @@
+/mnt/nvme1/yihaoyuan/SpatialAbilityTest/eeg_generated_from_eye/torch_base/data/spatial_utils/data_read.py:182: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  trial.loc[trial["Pupil diameter right"].isna(), "Pupil diameter right"] = trial[
+2024-04-07-Sunday 13:51:59
+Processing 1 ...
+1 per_eye_data.shape: (246, 240, 4)
+1 per_eye_label.shape: (246,)
+1 eeg_data_len: 246
+Processing 2 ...
+2 per_eye_data.shape: (141, 240, 4)
+2 per_eye_label.shape: (141,)
+2 eeg_data_len: 141
+Processing 3 ...
+3 per_eye_data.shape: (217, 240, 4)
+3 per_eye_label.shape: (217,)
+3 eeg_data_len: 217
+Processing 4 ...
+4 per_eye_data.shape: (172, 240, 4)
+4 per_eye_label.shape: (172,)
+4 eeg_data_len: 172
+Processing 5 ...
+5 per_eye_data.shape: (206, 240, 4)
+5 per_eye_label.shape: (206,)
+5 eeg_data_len: 206
+Processing 6 ...
+6 per_eye_data.shape: (191, 240, 4)
+6 per_eye_label.shape: (191,)
+6 eeg_data_len: 191
+Processing 7 ...
+7 per_eye_data.shape: (246, 240, 4)
+7 per_eye_label.shape: (246,)
+7 eeg_data_len: 246
+Processing 8 ...
+8 per_eye_data.shape: (200, 240, 4)
+8 per_eye_label.shape: (200,)
+8 eeg_data_len: 200
+Processing 10 ...
+10 per_eye_data.shape: (222, 240, 4)
+10 per_eye_label.shape: (222,)
+10 eeg_data_len: 222
+Processing 12 ...
+12 per_eye_data.shape: (205, 240, 4)
+12 per_eye_label.shape: (205,)
+12 eeg_data_len: 205
+Processing 13 ...
+13 per_eye_data.shape: (194, 240, 4)
+13 per_eye_label.shape: (194,)
+13 eeg_data_len: 194
+Processing 14 ...
+14 per_eye_data.shape: (224, 240, 4)
+14 per_eye_label.shape: (224,)
+14 eeg_data_len: 224
+Processing 16 ...
+16 per_eye_data.shape: (237, 240, 4)
+16 per_eye_label.shape: (237,)
+16 eeg_data_len: 237
+Processing 17 ...
+17 per_eye_data.shape: (224, 240, 4)
+17 per_eye_label.shape: (224,)
+17 eeg_data_len: 224
+Processing 18 ...
+18 per_eye_data.shape: (184, 240, 4)
+18 per_eye_label.shape: (184,)
+18 eeg_data_len: 184
+Processing 21 ...
+21 per_eye_data.shape: (233, 240, 4)
+21 per_eye_label.shape: (233,)
+21 eeg_data_len: 233
+Processing 22 ...
+22 per_eye_data.shape: (192, 240, 4)
+22 per_eye_label.shape: (192,)
+22 eeg_data_len: 192
+Processing 23 ...
+23 per_eye_data.shape: (247, 240, 4)
+23 per_eye_label.shape: (247,)
+23 eeg_data_len: 247
+Processing 24 ...
+24 per_eye_data.shape: (198, 240, 4)
+24 per_eye_label.shape: (198,)
+24 eeg_data_len: 198
+Processing 25 ...
+25 per_eye_data.shape: (237, 240, 4)
+25 per_eye_label.shape: (237,)
+25 eeg_data_len: 237
+Processing 26 ...
+26 per_eye_data.shape: (249, 240, 4)
+26 per_eye_label.shape: (249,)
+26 eeg_data_len: 249
+Processing 27 ...
+27 per_eye_data.shape: (221, 240, 4)
+27 per_eye_label.shape: (221,)
+27 eeg_data_len: 221
+Processing 28 ...
+28 per_eye_data.shape: (202, 240, 4)
+28 per_eye_label.shape: (202,)
+28 eeg_data_len: 202
+Processing 29 ...
+29 per_eye_data.shape: (198, 240, 4)
+29 per_eye_label.shape: (198,)
+29 eeg_data_len: 198
+Processing 30 ...
+30 per_eye_data.shape: (267, 240, 4)
+30 per_eye_label.shape: (267,)
+30 eeg_data_len: 267
+Processing 31 ...
+31 per_eye_data.shape: (201, 240, 4)
+31 per_eye_label.shape: (201,)
+31 eeg_data_len: 201
+Processing 32 ...
+32 per_eye_data.shape: (242, 240, 4)
+32 per_eye_label.shape: (242,)
+32 eeg_data_len: 242
+Processing 34 ...
+34 per_eye_data.shape: (198, 240, 4)
+34 per_eye_label.shape: (198,)
+34 eeg_data_len: 198
+Processing 35 ...
+35 per_eye_data.shape: (186, 240, 4)
+35 per_eye_label.shape: (186,)
+35 eeg_data_len: 186
+(6180, 240, 4)
+(6180,)
+Done!

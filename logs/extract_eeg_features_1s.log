@@ -1,0 +1,95 @@
+2024-04-13-Saturday 11:36:21
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject01/eeg/000001.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 1, 1051,1051,1051,1
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject02/eeg/000002.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 2, 1696,1696,1696,2
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject03/eeg/000003.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 3, 2648,2648,2648,3
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject04/eeg/000004.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 4, 3416,3416,3416,4
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject05/eeg/000005.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 5, 4314,4314,4314,5
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject06/eeg/000006.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 6, 5161,5161,5161,6
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject07/eeg/000007.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 7, 6222,6222,6222,7
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject08/eeg/000008.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 8, 7099,7099,7099,8
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject10/eeg/000010.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 10, 8064,8064,8064,9
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject12/eeg/000012.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 12, 8953,8953,8953,10
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject13/eeg/000013.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 13, 9833,9833,9833,11
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject14/eeg/000014.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 14, 10808,10808,10808,12
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject16/eeg/000016.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 16, 11826,11826,11826,13
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject17/eeg/000017.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 17, 12796,12796,12796,14
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/old/subject18/eeg/000018.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 18, 13618,13618,13618,15
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/021/eeg/021.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 21, 14627,14627,14627,16
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/022/eeg/022.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 22, 15465,15465,15465,17
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/023/eeg/023.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 23, 16530,16530,16530,18
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/024/eeg/024.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 24, 17402,17402,17402,19
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/025/eeg/025.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 25, 18407,18407,18407,20
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/026/eeg/026.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 26, 19452,19452,19452,21
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/027/eeg/027.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 27, 20411,20411,20411,22
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/028/eeg/028.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 28, 21304,21304,21304,23
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/029/eeg/029.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 29, 22178,22178,22178,24
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/030/eeg/030.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 30, 23318,23318,23318,25
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/031/eeg/031.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 31, 24197,24197,24197,26
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/032/eeg/032.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 32, 25244,25244,25244,27
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/034/eeg/034.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+Processing participant 34, 26119,26119,26119,28
+Finding 'sfreq' from header file: /data/SpaticalTest/SpaticalAbilityTest/202307/035/eeg/035.vhdr
+Used Annotations descriptions: ['New Segment/', 'Stimulus/S  1', 'Stimulus/S  2', 'Stimulus/S  3', 'Stimulus/S  4', 'Stimulus/S  5', 'Stimulus/S  6']
+/home/yihaoyuan/miniconda3/envs/torch/lib/python3.8/site-packages/sklearn/decomposition/_fastica.py:123: ConvergenceWarning: FastICA did not converge. Consider increasing tolerance or the maximum number of iterations.
+  warnings.warn(
+Processing participant 35, 26943,26943,26943,29
+(26943, 256, 31) (26943,) (26943, 5, 31) (30,) (29, 55)
+[    0  1051  1696  2648  3416  4314  5161  6222  7099  8064  8953  9833
+ 10808 11826 12796 13618 14627 15465 16530 17402 18407 19452 20411 21304
+ 22178 23318 24197 25244 26119 26943]
+数据保存成功, 保存路径为: /data/SpaticalTest/Spatial/total_data_1s_0, eeg_trials_1s_0.npy, labels_1s_0.npy, de_features_1s_0.npy, subject_index_1s_0.npy, eeg_ex_index_1s_0.npy
